@@ -1,15 +1,19 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello all, I am Chad Sherrell and welcome to my blog.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I am an engineer who's passionate about engineering.  
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I am a follower of the teachings of Christ.
+
+# Education
+* Ph.D. Candidate General Engineering
+  * University of Oklahoma, Norman, OK
+  * Expected graduation date May 2017.
+* M.S. Electrical & Computer Engineering (2003)
+  * University of Oklahoma, Norman, OK
+* B.S. Computer Science (1997)
+  * East Central University, Ada, OK
